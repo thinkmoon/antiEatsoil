@@ -1,0 +1,1 @@
+<view class="content"><image class="logo" src="/static/logo.png"></image><view class="text-area"><text class="title">世上的土本来是不能吃的</text></view><view class="margin"><text class="text text-brown">by:liqs@dgut.edu.cn</text></view><button data-event-opts="{{[['tap',[['setMoney',['$event']]]]]}}" class="cu-btn bg-green margin" bindtap="__e">开始约束自我</button></view>
